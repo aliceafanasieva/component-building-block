@@ -1,4 +1,4 @@
-_link naar onze repository: https://github.com/lisavanmansom/dry-drop-and-heal_
+_link naar issue in onze projectboard: [https://github.com/lisavanmansom/dry-drop-and-heal](https://github.com/orgs/fdnd-agency/projects/37/views/1?pane=issue&itemId=86761979&issue=fdnd-agency%7Cdrop-and-heal%7C59)_
 
 # Component Building Block
 
